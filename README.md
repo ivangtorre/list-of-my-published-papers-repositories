@@ -8,7 +8,7 @@ For an updated complete list of my scientific publications, you can visit my [Go
 (reverse chronological order)
 ### 2022
 1. **Compression principle and Zipf’s Law of brevity in infochemical communication:** [Repository](https://github.com/ivangtorre/compression-principle-and-Zipf-s-law-of-brevity-in-infochemical-communication), [Paper](https://royalsocietypublishing.org/doi/10.1098/rsbl.2022.0162)
-   
+   * You can crawl the dataset by using the instructions contained in this [repository](https://github.com/ivangtorre/pherobase-crawling).   
 2. **Speech pause distribution as an early marker for Alzheimer’s disease:** [Repository](https://github.com/ivangtorre/Speech-pause-distribution-as-an-early-marker-for-Alzheimers-disease), [Paper](https://www.sciencedirect.com/science/article/pii/S0167639321001333)
 
 ### 2021
