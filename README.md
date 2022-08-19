@@ -7,34 +7,20 @@ For an updated complete list of my scientific publications, you can visit my [Go
 # List of my published papers repositories
 (reverse chronological order)
 ### 2022
-1. **Compression principle and Zipf’s Law of brevity in infochemical communication:**
-   * [Repository](https://github.com/ivangtorre/compression-principle-and-Zipf-s-law-of-brevity-in-infochemical-communication)
-   * [Paper](https://royalsocietypublishing.org/doi/10.1098/rsbl.2022.0162)
+1. **Compression principle and Zipf’s Law of brevity in infochemical communication:** [Repository](https://github.com/ivangtorre/compression-principle-and-Zipf-s-law-of-brevity-in-infochemical-communication), [Paper](https://royalsocietypublishing.org/doi/10.1098/rsbl.2022.0162)
    
-2. **Speech pause distribution as an early marker for Alzheimer’s disease:**
-   * [Repository](https://github.com/ivangtorre/Speech-pause-distribution-as-an-early-marker-for-Alzheimers-disease)
-   * [Paper](https://www.sciencedirect.com/science/article/pii/S0167639321001333)
+2. **Speech pause distribution as an early marker for Alzheimer’s disease:** [Repository](https://github.com/ivangtorre/Speech-pause-distribution-as-an-early-marker-for-Alzheimers-disease), [Paper](https://www.sciencedirect.com/science/article/pii/S0167639321001333)
 
 ### 2021
-1. **Can Menzerath's law be a criterion of complexity in communication?:**
-   * [Repository](https://github.com/ivangtorre/Can-Menzerath-law-be-a-criterion-of-complexity-incommunication)
-   * [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256133)
+1. **Can Menzerath's law be a criterion of complexity in communication?:**[Repository](https://github.com/ivangtorre/Can-Menzerath-law-be-a-criterion-of-complexity-incommunication), [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256133)
 
 ### 2020
-1. **MULTIFRAC: An ImageJ plugin for multiscale characterization of 2D and 3D stack images:**
-   * [Repository](https://github.com/ivangtorre/multifrac)
-   * [Paper](https://www.sciencedirect.com/science/article/pii/S2352711020302879)
+1. **MULTIFRAC: An ImageJ plugin for multiscale characterization of 2D and 3D stack images:** [Repository](https://github.com/ivangtorre/multifrac), [Paper](https://www.sciencedirect.com/science/article/pii/S2352711020302879)
 
 ### 2019
-1. **On the physical origin of linguistic laws and lognormality in speech:**
-   * [Repository](https://royalsocietypublishing.org/doi/10.1098/rsos.191023)
-   * [Paper](https://royalsocietypublishing.org/doi/10.1098/rsos.191023)
+1. **On the physical origin of linguistic laws and lognormality in speech:** [Repository](https://royalsocietypublishing.org/doi/10.1098/rsos.191023), [Paper](https://royalsocietypublishing.org/doi/10.1098/rsos.191023)
 
-2. **Linguistic laws in speech: The case of Catalan and Spanish:**
-   * [Repository](https://github.com/ivangtorre/ling-law-speech-spanish-catalan)
-   * [Paper](mdpi.com/1099-4300/21/12/1153)
+2. **Linguistic laws in speech: The case of Catalan and Spanish:** [Repository](https://github.com/ivangtorre/ling-law-speech-spanish-catalan), [Paper](mdpi.com/1099-4300/21/12/1153)
 
 ### 2017
-1. **Emergence of linguistic laws in human voice:**
-   * [Repository](https://github.com/ivangtorre/pythreshold)
-   * [Paper](https://www.nature.com/articles/srep43862)
+1. **Emergence of linguistic laws in human voice:** [Repository](https://github.com/ivangtorre/pythreshold), [Paper](https://www.nature.com/articles/srep43862)
