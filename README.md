@@ -20,7 +20,7 @@ For an updated complete list of my scientific publications, you can visit my [Go
 ### 2019
 1. **On the physical origin of linguistic laws and lognormality in speech:** [Repository](https://royalsocietypublishing.org/doi/10.1098/rsos.191023), [Paper](https://royalsocietypublishing.org/doi/10.1098/rsos.191023)
 
-2. **Linguistic laws in speech: The case of Catalan and Spanish:** [Repository](https://github.com/ivangtorre/ling-law-speech-spanish-catalan), [Paper](mdpi.com/1099-4300/21/12/1153)
+2. **Linguistic laws in speech: The case of Catalan and Spanish:** [Repository](https://github.com/ivangtorre/ling-law-speech-spanish-catalan), [Paper](https://www.mdpi.com/1099-4300/21/12/1153)
 
 ### 2017
 1. **Emergence of linguistic laws in human voice:** [Repository](https://github.com/ivangtorre/pythreshold), [Paper](https://www.nature.com/articles/srep43862)
